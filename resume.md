@@ -91,6 +91,7 @@ _**Software Development Bootcamp**_,  Feb 2019- May 2019
 - Developed skills in Programming Fundamentals: OOP, C, C++, C# .net;  
 - Developed apps using UWP.
 - Multithreading and Microservices.
+
 &nbsp;
 
 
