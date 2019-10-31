@@ -25,7 +25,7 @@ pragathigajjala@gmail.com | (669) 224-5134 | [Linkedin](https://linkedin.com/in/
                                       management using Ansible  
 **Compilers / Editors:**             	RIDE and KEIL IDE, XILINX EDK & ISE Design Tool  
 **Programming Languages:**        		C, Embedded C, C#, Familiar with VHDL, C++ and JAVA  
-**Database:**                         SQL Server 
+**Database:**                         SQL Server RIDE and KEIL IDE, XILINX EDK & ISE Design Tool   
 **EDA Packages:**                     CADSTAR, ORCAD: Schematic Capture and PCB Layout  
 **Drawing Packages:**                 AUTOCAD  
 **Operating System:**                 Windows,Linux   
