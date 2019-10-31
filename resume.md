@@ -52,7 +52,8 @@ _**Senior Technical Officer**_,  Jun 2013- Jan 2015
 -	Liaise among different departments, e.g. suppliers, purchase, assembly, Quality control.
 
 
-_**Technical Officer**_,  Jun 2007- Jun 2013
+
+_**Technical Officer**_,  Jun 2007- Jan 2013  
 [ECIL](http://www.ecil.co.in/), Hyderabad - India 
 
 **Project**    : Design and Development of Power Supply Modules
@@ -62,8 +63,7 @@ _**Technical Officer**_,  Jun 2007- Jun 2013
 - Design and Development of Test Jigs to test Individual PCBs and Integrated Modules. 
 - Estimating the cost and arriving at Module Price
 
-
-_**Engineer**_,  Jun 2006- Jun 2007
+_**Engineer**_,  Jun 2006- Jan 2007  
 [ECIL](http://www.ecil.co.in/), Hyderabad - India 
 
 **Project**   : Solid State Cockpit Voice Recorder (black box)
@@ -71,8 +71,7 @@ _**Engineer**_,  Jun 2006- Jun 2007
 -	Responsible for Production activities.
 - Design, Create and maintain SQL Server Database for the manufactured, dispatched and repaired products.
 
-
-_**Quality Assurance Trainee**_,  Feb 2006- Jun 2006
+_**Quality Assurance Trainee**_,  Jun 2006- Jan 2006  
 [JUNO](https://www.juno.com/), Hyderabad - India 
 
 -Software Manual Tester for United Online Services (UOL) an Internet Service Provider. Testing of Web applications.
