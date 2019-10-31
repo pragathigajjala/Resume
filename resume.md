@@ -8,7 +8,7 @@ pragathigajjala@gmail.com | (669) 224-5134 | [Linkedin](https://linkedin.com/in/
 - 8+ years of experience in the field of **electronics and embedded systems**, worked as a Senior Technical Officer with Electronics Corporation of India Limited. 
 -   Completed Bootcamp **Software Development - Deep stack program Bootcamp** from KAL Academy.
 - Completed Devops Training from a real-time expert and corporate trainer. 
--	Experienced Engineer in complete product life cycle development of Power Supply Modules and **Microcontroller**(C Programming) based Digital Notch Indicators. 
+-	Experienced Engineer in complete product life cycle development of Power Supply Modules and **Microcontroller (C Programming)** based Digital Notch Indicators. 
 -	**Certified Internal Quality Auditor.**
 -	Managed the Technical Team and guided them in development and testing of the electronic products on the Production Floor.
 -	Excellent analytical and organizational skills, good communication skills, and ability to work in a team environment as well as an individual contributor. 
