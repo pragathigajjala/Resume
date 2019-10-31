@@ -33,10 +33,8 @@ pragathigajjala@gmail.com | (669) 224-5134 | [Linkedin](https://linkedin.com/in/
 
 
 ## Professional Experience
-_**Software Engineer (Volunteering, unpaid)**_,   Apr 2019 – Present
-[Quadrant Resource LLC](https://www.quadrantresource.com/), Seattle WA
-_**Software Developer Engineer**_,  Mar 2015- Present  
-[Amazon](http://aws.amazon.com/careers/sde/), Seattle WA
+_**Software Engineer (Volunteering, unpaid)**_,  Apr 2019- Present  
+[Quadrant Resource LLC](https://www.quadrantresource.com/), Redmond WA
 
 -	Developing an ASP.net C# web application. 
 -	Build and Release cycle management using Azure DevOps.
