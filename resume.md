@@ -4,21 +4,13 @@ pragathigajjala@gmail.com | (669) 224-5134 | [Linkedin](https://linkedin.com/in/
 
 ## Professional Summary 
 
--	8+ years of experience in the field of **electronics and embedded systems**, worked as a Senior Technical Officer in Electronics Corporation of India Limited (ECIL), A Government of India (Department of Atomic Energy) Enterprise. 
--   Currently attending Kal Academy **Software Development - Deep stack program Bootcamp.**
+-	Currently working (no-pay volunteering) as a Software engineer; developing a ASP.net C# application and handling Build and Release cycle management using Azure DevOps. 
+- 8+ years of experience in the field of **electronics and embedded systems**, worked as a Senior Technical Officer in Electronics Corporation of India Limited (ECIL), A Government of India (Department of Atomic Energy) Enterprise. 
+-   Completed Bootcamp **Software Development - Deep stack program Bootcamp** from KAL Academy.
+- Completed Devops Training from a real-time expert and corporate trainer. 
 -	Experienced Engineer in complete product life cycle development of Power Supply Modules and **Microcontroller** based Digital Notch Indicators. 
--	Production of **Microcontroller** based Solid State Cockpit Voice Recorder.
--	Work experience in the areas of discrete components and microcontrollers. 
--	Exposure to protocols and standards like **CAN, SPI, UART** etc.
--	Good knowledge in usage of Function Generator & Cathode Ray Oscilloscope.
--	Extensive experience in Qualification Tests (like EMI/EMC tests) and Documentation  (Specifications, Schematics, BOMs, Inspection Procedures and Engineering Drawings). 
--	Good understanding of OOP concepts & Design Patterns.
 -	**Certified Internal Quality Auditor.**
 -	Managed the Technical Team and guided them in development and testing of the electronic products on the Production Floor.
--	R&D in projects according to customer requirements and to improve efficiency.
--	Worked closely with various vendors in procuring the materials for the Production Floor.
--	Experienced in requirements gathering, functional gap analysis, solution design, integration, testing, implementation, documentation and knowledge transfer. 
--	Absolutely capable of working in a fast paced, dynamic, team-oriented environment.
 -	Excellent analytical and organizational skills, good communication skills, and ability to work in a team environment as well as an individual contributor. 
 
 
@@ -28,12 +20,16 @@ pragathigajjala@gmail.com | (669) 224-5134 | [Linkedin](https://linkedin.com/in/
 
 
 ## Skills
+**Devops:**             	            Azure Cloud Computing, Devops Methodology, Jenkins CI/CD pipeline, Docker Contanerization and     
+                                      Kubernetes container orchestration system, Bash shell scripting, Pyton scripting, configuration   
+                                      management using AnsibleRIDE and KEIL IDE, XILINX EDK & ISE Design Tool  
 **Compilers / Editors:**             	RIDE and KEIL IDE, XILINX EDK & ISE Design Tool  
 **Programming Languages:**        		C, Embedded C, C#, Familiar with VHDL, C++ and JAVA  
-**EDA Packages:**                       CADSTAR, ORCAD: Schematic Capture and PSPICE  
-**Drawing Packages:**                  	AUTOCAD  
-**Operating System:**                  	Windows, Familiar with UNIX and Linux   
-**Microcontroller:**                    8051
+**Database:**                         SQL Server
+**EDA Packages:**                     CADSTAR, ORCAD: Schematic Capture and PSPICE  
+**Drawing Packages:**                 AUTOCAD  
+**Operating System:**                 Windows, Familiar with UNIX and Linux   
+**Microcontroller:**                  8051
 
 
 ## Professional Experience
@@ -46,27 +42,30 @@ Responsible for planning, coordination and control of manufacturing Power Supply
 
 **Responsibilities:**
 
--	Overseeing the production processes.
--	Making sure that products are produced on time and are functionally OK.
--	Purchasing the material needed, Assembled PCBs Testing and Troubleshooting, Documentation, Module Integration, Functional Testing, Troubleshooting, Qualification Tests and Dispatch.
--	Cost estimation.
--	Being responsible for modules functionality
+-	Circuit Design, Component Selection and Procurement, Generate Schematics and Review the PCB layout.
+-	System programming in C (Microcontroller interfacing RS-232, CAN, SPI).
+-	Testing and troubleshooting of Assembled PCBs and Integrated module.
+-	Functional Tests at PCB and Module level and Qualification tests at Module level. 
+-	Documentation: Specifications, BOMs, Test procedures(FT, ATP, QTP, Test reports) and Engineering Drawings (PCB Fabrication, PCB General Assembly/Component Layout and Module General Assembly).
 -	Liaise among different departments, e.g. suppliers, purchase, assembly, Quality control.
 
 
-#### Employer	: Electronics Corporation of India Limited      		           *June 2010 – June 2011*
-#### Project    : Microcontroller based Digital Notch Indicator for electric locomotive
+#### Employer	: Electronics Corporation of India Limited      		           *June 2007 – June 2011*
+#### Project    : Design and Development of Power Supply Modules
 #### Role	   	: Technical Officer 
 
 **Description:** Design, Development, Prototype Testing, Cost Estimation and Production (full life cycle process) of Digital Notch Indicator for electric locomotive (Railway Application).
 
 **Responsibilities:**
 
--	Design ,Component Selection and Procurement , Generated Schematics , Prepared PCB layout and guidelines in circuit placement and routing, review the layout and check the netlist, System programming in Embedded C (Microcontroller interfacing RS-232, CAN, SPI), Assembled PCBs testing and troubleshooting, module Integration, Functional Test and Qualification tests. Documentation (Specifications, BOMs, Inspection procedures ATP and QTP, Test reports and Engineering Drawings: PCB Fabrication, PCB General Assembly/Component Layout and Module General Assembly).
-
+-	Prepared Specifications, Circuit Design, Components Selection and Procurement, Generated Schematics, review the PCB layout, Assembled PCBs and Integrated module Testing and Troubleshooting.
+-	DOCUMENTATION: Specifications, BOMs, Test procedures and Engineering Drawings.
+-	Functional Tests and Qualification tests as per JSS 55555. 
+- Design and Development of Test Jigs to test Individual PCBs and Integrated Module. 
+- Estimating the cost and arriving at Module Price
 
 #### Employer	: Electronics Corporation of India Limited	                                   *June 2007 – June 2010*
-#### Project    : Power Supply Modules (Ship Borne Application) 
+#### Project    : Solid State Cockpit Voice Recorder (black box)
 #### Role       : Engineer ‘C’
 
 **Description:**
@@ -74,31 +73,25 @@ Design, Develop, Prototype Testing, Cost estimation and Production of 6 types of
 
 **Responsibilities:**
 
--	Prepared Specifications, Circuit Design ,Components Selection and Procurement, Generated Schematics, Prepared PCB layout and guidelines in circuit placement and routing, review the layout and check the netlist, Assembled PCBs Testing and Troubleshooting ,Prepared Wiring Diagrams ,Module Integration , Functional Test and 
-Qualification tests:  Burn-In, High Temperature, Low Temperature, Damp Heat, Tropical Exposure, Vibration, EMI/EMC, High Pressure, Shock and Impact as per JSS 55555. 
-DOCUMENTATION :Specifications, BOMs, Inspection procedures ATP and QTP, Test reports and Engineering Drawings : Wiring , PCB Fabrication , PCB General Assembly/Component Layout and Module General Assembly.
--	Design and Development of Test Jigs to test Individual PCBs and Integrated Module.
--	Estimating the cost and arriving at Module Price.
+-	Functional testing and troubleshooting of Solid-state cockpit voice recorder which records 4 channels of audio of 2 hours each. 
+-	Responsible for Production activities.
+- Design, Create and maintain SQL Server Database for the manufactured, dispatched and repaired products.
 
-**Project:** Instrumented Pipeline Inspection gauge and Calibration Pipeline Inspection gauge 
 
--	Generated Schematics for 14 types of PCBs, Prepared PCB layout and guidelines in circuit placement and routing, review the layout and check the netlist, Assembled PCBs testing.
--	Documentation: BOMs, Individual PCBs Inspection procedures. 
-
-#### Employer	: Electronics Corporation of India Limited		                       *June 2006 – June 2007*
-#### Project    :  Solid State Cockpit Voice Recorder (SSCVR)
-#### Role	   	: Graduate Engineer Trainee
-
-**Description:**
-Responsible for production support and enhancements and troubleshooting issues. 
-
-**Responsibilities:**
-
--	Functional testing and troubleshooting of Solid state cockpit voice recorder which records 4 channels of audio of 2 hours each.
--	Design of Voltage monitoring circuit for use in the SSCVR.
--	Study and implementation of Microcontroller based projects. Hands on experience with RIDE and KEIL compiler for C programming. 
--	Attended ARM microprocessor training. 
-
-#### Employer	: Juno Online Services                                                           	*Feb 2006 – June 2006*
+#### Employer	: Juno Online Services                                                           	*Jan 2006 – June 2006*
 #### Role	    : Trainee in Quality Assurance Team
-**Responsibilities:** Software Manual Tester for United Online Services (UOL) an Internet Service Provider.
+**Responsibilities:** Software Manual Tester for United Online Services (UOL) an Internet Service Provider. Testing of Web applications
+
+## Trainings Completed
+#### Software Development Bootcamp, KAL Academy - Redmond                                      	*Feb 2019 – June 2019*
+
+- Developed skills in Programming Fundamentals: OOP, C, C++, C# .net; 
+
+#### Devops with AWS Course, Real-time expert and corporate trainer, Redmond                   	*Feb 2019 – June 2019*
+
+- Good hands-on experience with DevOps process (using AWS EC2 instances) for developing automated CI/CD pipelines for code deployment.
+- Created multi branch pipeline jobs in Jenkins to perform CI-CD for multiple branches parallelly.
+- Built and deployed Docker containers to break up monolithic app into micro services. Created Dev environment and QA environment using docker. Working knowledge of docker compose for creating multi container architecture.
+- Orchestrated Docker container cluster using Kubernetes/ Docker Swarm.
+- Experience in writing Ansible playbooks for server configuration.
+- Python scripting for automating various DevOps related activities. 
