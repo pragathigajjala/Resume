@@ -78,7 +78,8 @@ _**Quality Assurance Trainee**_,  Jun 2006- Jan 2006
 
 
 ## Trainings Completed
-#### Software Development Bootcamp, KAL Academy - Redmond                               (Feb 2019 – May 2019)
+_**Software Development Bootcamp**_,  Feb 2019- May 2019  
+[KAL ACADEMY](https://www.kalacademy.org/), Redmond WA
 
 - Developed skills in Programming Fundamentals: OOP, C, C++, C# .net; 
 
