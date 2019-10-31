@@ -33,9 +33,9 @@ pragathigajjala@gmail.com | (669) 224-5134 | [Linkedin](https://linkedin.com/in/
 
 
 ## Professional Experience
-### Employer	: Volunteering(Unpaid) at Quadrant Resource, Redmond            	               	                *June 2013 – Jan 2015*
-### Project  : ASP .net C# Web Application 
-### Role	   	: Software Developer  
+#### Employer	: Volunteering(Unpaid) at Quadrant Resource, Redmond            	               	                *June 2013 – Jan 2015*
+#### Project  : ASP .net C# Web Application 
+#### Role	   	: Software Developer  
 
 **Responsibilities:**
 
