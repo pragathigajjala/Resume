@@ -17,7 +17,6 @@ pragathigajjala@gmail.com | (669) 224-5134 | [Linkedin](https://linkedin.com/in/
 -	Managed the Technical Team and guided them in development and testing of the electronic products on the Production Floor.
 -	R&D in projects according to customer requirements and to improve efficiency.
 -	Worked closely with various vendors in procuring the materials for the Production Floor.
--	Interacted with customers to gather the requirements and design inputs.
 -	Experienced in requirements gathering, functional gap analysis, solution design, integration, testing, implementation, documentation and knowledge transfer. 
 -	Absolutely capable of working in a fast paced, dynamic, team-oriented environment.
 -	Excellent analytical and organizational skills, good communication skills, and ability to work in a team environment as well as an individual contributor. 
