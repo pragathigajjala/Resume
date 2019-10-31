@@ -39,8 +39,9 @@ _**Software Engineer (Volunteering, unpaid)**_,  Apr 2019- Present
 -	Developing an ASP.net C# web application. 
 -	Build and Release cycle management using Azure DevOps.
 
+
 _**Senior Technical Officer**_,  Jun 2013- Jan 2015  
-[ECIL](http://www.ecil.co.in/), Hyderabad - India WA
+[ECIL](http://www.ecil.co.in/), Hyderabad - India 
 
  **Project**   : Production of Power Supply Modules and Digital Notch Indicators
 -	Circuit Design, Component Selection and Procurement, Generate Schematics and Review the PCB layout.
@@ -51,28 +52,31 @@ _**Senior Technical Officer**_,  Jun 2013- Jan 2015
 -	Liaise among different departments, e.g. suppliers, purchase, assembly, Quality control.
 
 
-#### Employer	: Electronics Corporation of India Limited                    (June 2007 – June 2013)
-#### Project    : Design and Development of Power Supply Modules
-#### Role	   	: Technical Officer 
+_**Technical Officer**_,  Jun 2007- Jun 2013
+[ECIL](http://www.ecil.co.in/), Hyderabad - India 
 
+**Project**    : Design and Development of Power Supply Modules
 -	Prepared Specifications, Circuit Design, Components Selection and Procurement, Generated Schematics, review the PCB layout, Assembled PCBs and Integrated module Testing and Troubleshooting.
 -	DOCUMENTATION: Specifications, BOMs, Test procedures and Engineering Drawings.
 -	Functional Tests and Qualification tests as per JSS 55555. 
 - Design and Development of Test Jigs to test Individual PCBs and Integrated Modules. 
 - Estimating the cost and arriving at Module Price
 
-#### Employer	: Electronics Corporation of India Limited	                    (June 2006 – June 2007)
-#### Project    : Solid State Cockpit Voice Recorder (black box)
-#### Role       : Engineer
 
+_**Engineer**_,  Jun 2006- Jun 2007
+[ECIL](http://www.ecil.co.in/), Hyderabad - India 
+
+**Project**   : Solid State Cockpit Voice Recorder (black box)
 -	Functional testing and troubleshooting of Solid-state cockpit voice recorder which records 4 channels of audio of 2 hours each. 
 -	Responsible for Production activities.
 - Design, Create and maintain SQL Server Database for the manufactured, dispatched and repaired products.
 
 
-#### Employer	: Juno Online Services                                                 (Feb 2006 – June 2006)
-#### Role	    : Trainee in Quality Assurance Team
-**Responsibilities:** Software Manual Tester for United Online Services (UOL) an Internet Service Provider. Testing of Web applications.
+_**Quality Assurance Trainee**_,  Feb 2006- Jun 2006
+[JUNO](https://www.juno.com/), Hyderabad - India 
+
+-Software Manual Tester for United Online Services (UOL) an Internet Service Provider. Testing of Web applications.
+
 
 ## Trainings Completed
 #### Software Development Bootcamp, KAL Academy - Redmond                               (Feb 2019 – May 2019)
