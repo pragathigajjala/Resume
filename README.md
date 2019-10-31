@@ -1,1 +1,1 @@
-# Pragathi Resume in Markdown
+# Pragathi Gajjala Resume in Markdown
