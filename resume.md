@@ -37,7 +37,7 @@ _**Software Engineer (Volunteering, unpaid)**_,  Apr 2019- Present
 [Quadrant Resource LLC](https://www.quadrantresource.com/), Redmond WA
 
 -	Developing an ASP.net C# web application. 
--	Build and Release cycle management using Azure DevOps.
+-	Build and Release cycle management using Azure DevOps.   
 
 
 _**Senior Technical Officer**_,  Jun 2013- Jan 2015  
@@ -49,7 +49,7 @@ _**Senior Technical Officer**_,  Jun 2013- Jan 2015
 -	Testing and troubleshooting of Assembled PCBs and Integrated modules.
 -	Functional Tests(FT) at PCB and Module level and Qualification tests at Module level. 
 -	Documentation: Specifications, BOMs, Test procedures(FT, ATP, QTP, Test reports) and Engineering Drawings (PCB Fabrication, PCB General Assembly/Component Layout and Module General Assembly).
--	Liaise among different departments, e.g. suppliers, purchase, assembly, Quality control.
+-	Liaise among different departments, e.g. suppliers, purchase, assembly, Quality control.   
 
 
 
@@ -61,7 +61,7 @@ _**Technical Officer**_,  Jun 2007- Jan 2013
 -	DOCUMENTATION: Specifications, BOMs, Test procedures and Engineering Drawings.
 -	Functional Tests and Qualification tests as per JSS 55555. 
 - Design and Development of Test Jigs to test Individual PCBs and Integrated Modules. 
-- Estimating the cost and arriving at Module Price
+- Estimating the cost and arriving at Module Price.   
 
 _**Engineer**_,  Jun 2006- Jan 2007  
 [ECIL](http://www.ecil.co.in/), Hyderabad - India 
@@ -69,7 +69,7 @@ _**Engineer**_,  Jun 2006- Jan 2007
 **Project**   : Solid State Cockpit Voice Recorder (black box)
 -	Functional testing and troubleshooting of Solid-state cockpit voice recorder which records 4 channels of audio of 2 hours each. 
 -	Responsible for Production activities.
-- Design, Create and maintain SQL Server Database for the manufactured, dispatched and repaired products.
+- Design, Create and maintain SQL Server Database for the manufactured, dispatched and repaired products.   
 
 _**Quality Assurance Trainee**_,  Jun 2006- Jan 2006  
 [JUNO](https://www.juno.com/), Hyderabad - India 
@@ -81,7 +81,7 @@ _**Quality Assurance Trainee**_,  Jun 2006- Jan 2006
 _**Software Development Bootcamp**_,  Feb 2019- May 2019  
 [KAL ACADEMY](https://www.kalacademy.org/), Redmond WA
 
-- Developed skills in Programming Fundamentals: OOP, C, C++, C# .net; 
+- Developed skills in Programming Fundamentals: OOP, C, C++, C# .net;    
 
 _**AWS Devops Training**_,  Feb 2019- Jun 2019  
 [LaSai Technilogies](http://www.lasaitech.com/), Redmond WA
