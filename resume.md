@@ -25,7 +25,7 @@ pragathigajjala@gmail.com | (669) 224-5134 | [Linkedin](https://linkedin.com/in/
                                       management using Ansible  
 **Compilers / Editors:**             	RIDE and KEIL IDE, XILINX EDK & ISE Design Tool  
 **Programming Languages:**        		C, Embedded C, C#, Familiar with VHDL, C++ and JAVA  
-**Database:**                         SQL Server RIDE and KEIL IDE, XILINX EDK & ISE Design Tool   
+**Database:**                         SQL Server   
 **EDA Packages:**                     CADSTAR, ORCAD: Schematic Capture and PCB Layout  
 **Drawing Packages:**                 AUTOCAD  
 **Operating System:**                 Windows,Linux   
@@ -74,7 +74,7 @@ _**Engineer**_,  Jun 2006- Jan 2007
 _**Quality Assurance Trainee**_,  Jun 2006- Jan 2006  
 [JUNO](https://www.juno.com/), Hyderabad - India 
 
--Software Manual Tester for United Online Services (UOL) an Internet Service Provider. Testing of Web applications.
+- Software Manual Tester for United Online Services (UOL) an Internet Service Provider. Testing of Web applications.
 
 
 ## Trainings Completed
