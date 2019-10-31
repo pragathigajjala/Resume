@@ -39,9 +39,10 @@ _**Software Engineer (Volunteering, unpaid)**_,  Apr 2019- Present
 -	Developing an ASP.net C# web application. 
 -	Build and Release cycle management using Azure DevOps.
 
-#### Employer	: Electronics Corporation of India Limited	               	                (June 2013 – Jan 2015)
-#### Project   : Production of Power Supply Modules and Digital Notch Indicators
-#### Role	   	: Senior Technical Officer 
+_**Senior Technical Officer**_,  Jun 2013- Jan 2015  
+[ECIL](http://www.ecil.co.in/), Hyderabad - India WA
+
+ Project   : Production of Power Supply Modules and Digital Notch Indicators
 
 -	Circuit Design, Component Selection and Procurement, Generate Schematics and Review the PCB layout.
 -	System programming in C (Microcontroller interfacing RS-232, CAN, SPI).
