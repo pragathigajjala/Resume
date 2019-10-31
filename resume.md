@@ -37,9 +37,6 @@ pragathigajjala@gmail.com | (669) 224-5134 | [Linkedin](https://linkedin.com/in/
 #### Project   : Production of Power Supply Modules and Digital Notch Indicators
 #### Role	   	: Senior Technical Officer 
 
-**Description:**
-Responsible for planning, coordination and control of manufacturing Power Supply Modules for ship borne applications and Digital Notch Indicators for Locomotives.
-
 **Responsibilities:**
 
 -	Circuit Design, Component Selection and Procurement, Generate Schematics and Review the PCB layout.
@@ -50,11 +47,9 @@ Responsible for planning, coordination and control of manufacturing Power Supply
 -	Liaise among different departments, e.g. suppliers, purchase, assembly, Quality control.
 
 
-#### Employer	: Electronics Corporation of India Limited      		           *June 2007 – June 2011*
+#### Employer	: Electronics Corporation of India Limited      		                      *June 2007 – June 2011*
 #### Project    : Design and Development of Power Supply Modules
 #### Role	   	: Technical Officer 
-
-**Description:** Design, Development, Prototype Testing, Cost Estimation and Production (full life cycle process) of Digital Notch Indicator for electric locomotive (Railway Application).
 
 **Responsibilities:**
 
@@ -64,12 +59,9 @@ Responsible for planning, coordination and control of manufacturing Power Supply
 - Design and Development of Test Jigs to test Individual PCBs and Integrated Module. 
 - Estimating the cost and arriving at Module Price
 
-#### Employer	: Electronics Corporation of India Limited	                                   *June 2007 – June 2010*
+#### Employer	: Electronics Corporation of India Limited	                                   *June 2006 – June 2007*
 #### Project    : Solid State Cockpit Voice Recorder (black box)
 #### Role       : Engineer ‘C’
-
-**Description:**
-Design, Develop, Prototype Testing, Cost estimation and Production of 6 types of Power Supply Modules. 
 
 **Responsibilities:**
 
