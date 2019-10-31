@@ -33,7 +33,7 @@ pragathigajjala@gmail.com | (669) 224-5134 | [Linkedin](https://linkedin.com/in/
 
 
 ## Professional Experience
-_**Software Engineer (Volunteering, unpaid)**_,  Apr 2019- Present  
+_**Software Engineer (Volunteering, unpaid)**_,  May 2019- Present  
 [Quadrant Resource LLC](https://www.quadrantresource.com/), Redmond WA
 
 -	Developing an ASP.net C# web application. 
