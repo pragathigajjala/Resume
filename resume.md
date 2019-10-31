@@ -62,6 +62,7 @@ _**Technical Officer**_,  Jun 2007- Jan 2013
 -	Functional Tests and Qualification tests as per JSS 55555. 
 - Design and Development of Test Jigs to test Individual PCBs and Integrated Modules. 
 - Estimating the cost and arriving at Module Price.   
+&nbsp;
 
 _**Engineer**_,  Jun 2006- Jan 2007  
 [ECIL](http://www.ecil.co.in/), Hyderabad - India 
@@ -81,7 +82,9 @@ _**Quality Assurance Trainee**_,  Jun 2006- Jan 2006
 _**Software Development Bootcamp**_,  Feb 2019- May 2019  
 [KAL ACADEMY](https://www.kalacademy.org/), Redmond WA
 
-- Developed skills in Programming Fundamentals: OOP, C, C++, C# .net;    
+- Developed skills in Programming Fundamentals: OOP, C, C++, C# .net;  
+- Developed apps using UWP.
+- Multithreading and Microservices.
 
 _**AWS Devops Training**_,  Feb 2019- Jun 2019  
 [LaSai Technilogies](http://www.lasaitech.com/), Redmond WA
