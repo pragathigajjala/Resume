@@ -33,7 +33,7 @@ pragathigajjala@gmail.com | (669) 224-5134 | [Linkedin](https://linkedin.com/in/
 
 
 ## Professional Experience
-#### Employer	: Electronics Corporation of India Limited	               	              *June 2011 – Jan 2015*
+#### Employer	: Electronics Corporation of India Limited	               	                *June 2011 – Jan 2015*
 #### Project   : Production of Power Supply Modules and Digital Notch Indicators
 #### Role	   	: Senior Technical Officer 
 
@@ -47,7 +47,7 @@ pragathigajjala@gmail.com | (669) 224-5134 | [Linkedin](https://linkedin.com/in/
 -	Liaise among different departments, e.g. suppliers, purchase, assembly, Quality control.
 
 
-#### Employer	: Electronics Corporation of India Limited      		                      *June 2007 – June 2011*
+#### Employer	: Electronics Corporation of India Limited      		                         *June 2007 – June 2011*
 #### Project    : Design and Development of Power Supply Modules
 #### Role	   	: Technical Officer 
 
@@ -59,7 +59,7 @@ pragathigajjala@gmail.com | (669) 224-5134 | [Linkedin](https://linkedin.com/in/
 - Design and Development of Test Jigs to test Individual PCBs and Integrated Module. 
 - Estimating the cost and arriving at Module Price
 
-#### Employer	: Electronics Corporation of India Limited	                                   *June 2006 – June 2007*
+#### Employer	: Electronics Corporation of India Limited	                                    *June 2006 – June 2007*
 #### Project    : Solid State Cockpit Voice Recorder (black box)
 #### Role       : Engineer ‘C’
 
@@ -70,16 +70,16 @@ pragathigajjala@gmail.com | (669) 224-5134 | [Linkedin](https://linkedin.com/in/
 - Design, Create and maintain SQL Server Database for the manufactured, dispatched and repaired products.
 
 
-#### Employer	: Juno Online Services                                                           	*Jan 2006 – June 2006*
+#### Employer	: Juno Online Services                                                           	 *Jan 2006 – June 2006*
 #### Role	    : Trainee in Quality Assurance Team
 **Responsibilities:** Software Manual Tester for United Online Services (UOL) an Internet Service Provider. Testing of Web applications
 
 ## Trainings Completed
-#### Software Development Bootcamp, KAL Academy - Redmond                                      	*Feb 2019 – June 2019*
+#### Software Development Bootcamp, KAL Academy - Redmond                                      	 *Feb 2019 – June 2019*
 
 - Developed skills in Programming Fundamentals: OOP, C, C++, C# .net; 
 
-#### Devops with AWS Course, Real-time expert and corporate trainer, Redmond                   	*Feb 2019 – June 2019*
+#### Devops with AWS from Real-time expert and corporate trainer, Redmond                   	   *Feb 2019 – June 2019*
 
 - Good hands-on experience with DevOps process (using AWS EC2 instances) for developing automated CI/CD pipelines for code deployment.
 - Created multi branch pipeline jobs in Jenkins to perform CI-CD for multiple branches parallelly.
