@@ -83,7 +83,8 @@ _**Software Development Bootcamp**_,  Feb 2019- May 2019
 
 - Developed skills in Programming Fundamentals: OOP, C, C++, C# .net; 
 
-#### Devops with AWS from Real-time expert and corporate trainer, Redmond                (Feb 2019 – June 2019)
+_**AWS Devops Training**_,  Feb 2019- Jun 2019  
+[LaSai Technilogies](http://www.lasaitech.com/), Redmond WA
 
 - Good hands-on experience with DevOps process (using AWS EC2 instances) for developing automated CI/CD pipelines for code deployment.
 - Created multi branch pipeline jobs in Jenkins to perform CI-CD for multiple branches parallelly.
