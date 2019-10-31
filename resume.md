@@ -50,6 +50,7 @@ _**Senior Technical Officer**_,  Jun 2013- Jan 2015
 -	Functional Tests(FT) at PCB and Module level and Qualification tests at Module level. 
 -	Documentation: Specifications, BOMs, Test procedures(FT, ATP, QTP, Test reports) and Engineering Drawings (PCB Fabrication, PCB General Assembly/Component Layout and Module General Assembly).
 -	Liaise among different departments, e.g. suppliers, purchase, assembly, Quality control.   
+&nbsp;
 
 
 
@@ -71,11 +72,15 @@ _**Engineer**_,  Jun 2006- Jan 2007
 -	Functional testing and troubleshooting of Solid-state cockpit voice recorder which records 4 channels of audio of 2 hours each. 
 -	Responsible for Production activities.
 - Design, Create and maintain SQL Server Database for the manufactured, dispatched and repaired products.   
+&nbsp;
+
 
 _**Quality Assurance Trainee**_,  Jun 2006- Jan 2006  
 [JUNO](https://www.juno.com/), Hyderabad - India 
 
 - Software Manual Tester for United Online Services (UOL) an Internet Service Provider. Testing of Web applications.
+&nbsp;
+
 
 
 ## Trainings Completed
@@ -85,6 +90,8 @@ _**Software Development Bootcamp**_,  Feb 2019- May 2019
 - Developed skills in Programming Fundamentals: OOP, C, C++, C# .net;  
 - Developed apps using UWP.
 - Multithreading and Microservices.
+&nbsp;
+
 
 _**AWS Devops Training**_,  Feb 2019- Jun 2019  
 [LaSai Technilogies](http://www.lasaitech.com/), Redmond WA
