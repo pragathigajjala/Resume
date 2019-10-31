@@ -22,11 +22,11 @@ pragathigajjala@gmail.com | (669) 224-5134 | [Linkedin](https://linkedin.com/in/
 ## Skills
 **Devops:**             	            Azure Cloud Computing, Devops Methodology, Jenkins CI/CD pipeline, Docker Contanerization and     
                                       Kubernetes container orchestration system, Bash shell scripting, Pyton scripting, configuration   
-                                      management using AnsibleRIDE and KEIL IDE, XILINX EDK & ISE Design Tool  
+                                      management using Ansible  
 **Compilers / Editors:**             	RIDE and KEIL IDE, XILINX EDK & ISE Design Tool  
 **Programming Languages:**        		C, Embedded C, C#, Familiar with VHDL, C++ and JAVA  
-**Database:**                         SQL Server
-**EDA Packages:**                     CADSTAR, ORCAD: Schematic Capture and PSPICE  
+**Database:**                         SQL Server 
+**EDA Packages:**                     CADSTAR, ORCAD: Schematic Capture and PCB Layout  
 **Drawing Packages:**                 AUTOCAD  
 **Operating System:**                 Windows, Familiar with UNIX and Linux   
 **Microcontroller:**                  8051
