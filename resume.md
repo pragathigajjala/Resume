@@ -41,8 +41,8 @@ pragathigajjala@gmail.com | (669) 224-5134 | [Linkedin](https://linkedin.com/in/
 
 -	Circuit Design, Component Selection and Procurement, Generate Schematics and Review the PCB layout.
 -	System programming in C (Microcontroller interfacing RS-232, CAN, SPI).
--	Testing and troubleshooting of Assembled PCBs and Integrated module.
--	Functional Tests at PCB and Module level and Qualification tests at Module level. 
+-	Testing and troubleshooting of Assembled PCBs and Integrated modules.
+-	Functional Tests(FT) at PCB and Module level and Qualification tests at Module level. 
 -	Documentation: Specifications, BOMs, Test procedures(FT, ATP, QTP, Test reports) and Engineering Drawings (PCB Fabrication, PCB General Assembly/Component Layout and Module General Assembly).
 -	Liaise among different departments, e.g. suppliers, purchase, assembly, Quality control.
 
@@ -56,7 +56,7 @@ pragathigajjala@gmail.com | (669) 224-5134 | [Linkedin](https://linkedin.com/in/
 -	Prepared Specifications, Circuit Design, Components Selection and Procurement, Generated Schematics, review the PCB layout, Assembled PCBs and Integrated module Testing and Troubleshooting.
 -	DOCUMENTATION: Specifications, BOMs, Test procedures and Engineering Drawings.
 -	Functional Tests and Qualification tests as per JSS 55555. 
-- Design and Development of Test Jigs to test Individual PCBs and Integrated Module. 
+- Design and Development of Test Jigs to test Individual PCBs and Integrated Modules. 
 - Estimating the cost and arriving at Module Price
 
 #### Employer	: Electronics Corporation of India Limited	                                    *June 2006 – June 2007*
