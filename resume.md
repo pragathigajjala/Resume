@@ -33,20 +33,16 @@ pragathigajjala@gmail.com | (669) 224-5134 | [Linkedin](https://linkedin.com/in/
 
 
 ## Professional Experience
-#### Employer	: Volunteering(Unpaid) at Quadrant Resource, Redmond            	               	                *June 2013 – Jan 2015*
-#### Project  : ASP .net C# Web Application 
-#### Role	   	: Software Developer  
-
-**Responsibilities:**
+#### Employer	: Volunteering(Unpaid) at Quadrant Resource, Redmond            	          (June 2013 – Jan 2015)
+ Project  : ASP .net C# Web Application 
+ Role	   	: Software Engineer  
 
 -	Developing an ASP.net C# web application. 
 -	Build and Release cycle management using Azure DevOps.
 
-#### Employer	: Electronics Corporation of India Limited	               	                *June 2013 – Jan 2015*
+#### Employer	: Electronics Corporation of India Limited	               	                (June 2013 – Jan 2015)
 #### Project   : Production of Power Supply Modules and Digital Notch Indicators
 #### Role	   	: Senior Technical Officer 
-
-**Responsibilities:**
 
 -	Circuit Design, Component Selection and Procurement, Generate Schematics and Review the PCB layout.
 -	System programming in C (Microcontroller interfacing RS-232, CAN, SPI).
@@ -56,11 +52,9 @@ pragathigajjala@gmail.com | (669) 224-5134 | [Linkedin](https://linkedin.com/in/
 -	Liaise among different departments, e.g. suppliers, purchase, assembly, Quality control.
 
 
-#### Employer	: Electronics Corporation of India Limited      		                         *June 2007 – June 2013*
+#### Employer	: Electronics Corporation of India Limited                    (June 2007 – June 2013)
 #### Project    : Design and Development of Power Supply Modules
 #### Role	   	: Technical Officer 
-
-**Responsibilities:**
 
 -	Prepared Specifications, Circuit Design, Components Selection and Procurement, Generated Schematics, review the PCB layout, Assembled PCBs and Integrated module Testing and Troubleshooting.
 -	DOCUMENTATION: Specifications, BOMs, Test procedures and Engineering Drawings.
@@ -68,27 +62,25 @@ pragathigajjala@gmail.com | (669) 224-5134 | [Linkedin](https://linkedin.com/in/
 - Design and Development of Test Jigs to test Individual PCBs and Integrated Modules. 
 - Estimating the cost and arriving at Module Price
 
-#### Employer	: Electronics Corporation of India Limited	                                    *June 2006 – June 2007*
+#### Employer	: Electronics Corporation of India Limited	                    (June 2006 – June 2007)
 #### Project    : Solid State Cockpit Voice Recorder (black box)
 #### Role       : Engineer
-
-**Responsibilities:**
 
 -	Functional testing and troubleshooting of Solid-state cockpit voice recorder which records 4 channels of audio of 2 hours each. 
 -	Responsible for Production activities.
 - Design, Create and maintain SQL Server Database for the manufactured, dispatched and repaired products.
 
 
-#### Employer	: Juno Online Services                                                           	 *Feb 2006 – June 2006*
+#### Employer	: Juno Online Services                                                 (Feb 2006 – June 2006)
 #### Role	    : Trainee in Quality Assurance Team
 **Responsibilities:** Software Manual Tester for United Online Services (UOL) an Internet Service Provider. Testing of Web applications.
 
 ## Trainings Completed
-#### Software Development Bootcamp, KAL Academy - Redmond                                      	 *Feb 2019 – May 2019*
+#### Software Development Bootcamp, KAL Academy - Redmond                               (Feb 2019 – May 2019)
 
 - Developed skills in Programming Fundamentals: OOP, C, C++, C# .net; 
 
-#### Devops with AWS from Real-time expert and corporate trainer, Redmond                   	   *Feb 2019 – June 2019*
+#### Devops with AWS from Real-time expert and corporate trainer, Redmond                (Feb 2019 – June 2019)
 
 - Good hands-on experience with DevOps process (using AWS EC2 instances) for developing automated CI/CD pipelines for code deployment.
 - Created multi branch pipeline jobs in Jenkins to perform CI-CD for multiple branches parallelly.
