@@ -44,12 +44,13 @@ _**Software Engineer (Volunteering, unpaid)**_,  May 2019- Present
 _**Senior Technical Officer**_,  Jun 2013- Jan 2015  
 [ECIL](http://www.ecil.co.in/), Hyderabad - India 
 
- **Project**   : Production of Power Supply Modules and Digital Notch Indicators
+ **Project**   : Production of Power Supply Modules and Design and development of Digital Notch Indicators
 -	Circuit Design, Component Selection and Procurement, Generate Schematics and Review the PCB layout.
 -	System programming in C (Microcontroller interfacing RS-232, CAN, SPI).
 -	Testing and troubleshooting of Assembled PCBs and Integrated modules.
 -	Functional Tests(FT) at PCB and Module level and Qualification tests at Module level. 
 -	Documentation: Specifications, BOMs, Test procedures(FT, ATP, QTP, Test reports) and Engineering Drawings (PCB Fabrication, PCB General Assembly/Component Layout and Module General Assembly).
+-	Manage the technical and quality control team on production floor.
 -	Liaise among different departments, e.g. suppliers, purchase, assembly, Quality control.   
 &nbsp;
 
